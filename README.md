@@ -9,22 +9,22 @@
 - Windows example:
   
  ```php
- mklink /d "C:\xampp\htdocs\laravel-adminlte\public\assets\adminlte" "C:\xampp\htdocs\laravel-adminlte\vendor\almasaeed2010\adminlte"
+ mklink /d "C:\xampp\htdocs\product_sinergi\public\assets\adminlte" "C:\xampp\htdocs\product_sinergi\vendor\almasaeed2010\adminlte"
  ```
  
  - Linux example:    
     
 ```php
-ln -s public_html/laravel-adminlte/vendor/almasaeed2010/adminlte public_html/laravel-adminlte/public/assets/adminlte
+ln -s public_html/product_sinergi/vendor/almasaeed2010/adminlte public_html/product_sinergi/public/assets/adminlte
 ``` 
  
  - Macbook example:    
     
 ```php
-ln -s ~/public_html/laravel-adminlte/vendor/almasaeed2010/adminlte ~/public_html/laravel-adminlte/public/assets/adminlte
+ln -s ~/public_html/product_sinergi/vendor/almasaeed2010/adminlte ~/public_html/product_sinergi/public/assets/adminlte
 ```
 
-public_html/laravel-adminlte  ubah ke directory project anda
+public_html/product_sinergi  ubah ke directory project anda
 
 7) Run
 ```php
